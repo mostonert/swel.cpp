@@ -1,2 +1,0 @@
-# swel.cpp
-load
